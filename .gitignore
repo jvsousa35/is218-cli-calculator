@@ -8,3 +8,5 @@ htmlcov/
 coverage.xml
 .DS_Store
 .env
+old_tests_backup/
+.venv/
